@@ -34,3 +34,25 @@ Q2: 5 pillars are useful because they make life easier for both users and develo
 ![image](https://user-images.githubusercontent.com/109040793/179969586-676870d3-7e5d-4968-8275-8cc8f6933400.png)
 ![image](https://user-images.githubusercontent.com/109040793/179972513-bf1fa9eb-1e33-476d-baa6-e4e1e9795f6a.png)
 ![image](https://user-images.githubusercontent.com/109040793/179970247-79d609ac-f5b6-4ba4-b8ae-a9aa8646fb1e.png)
+
+#Chapter 2 Day 3
+
+1. ![image](https://user-images.githubusercontent.com/109040793/179979887-e43fd071-a377-4dcb-a88c-dd9c688c376d.png)
+
+2. ![image](https://user-images.githubusercontent.com/109040793/179983794-8e4c4e7a-071f-4390-ab50-203b5aa620e3.png)
+
+3. Force unwrap operator basically ensures that value we are trying to return actually exists and isn't nil, it takes the optional away.
+![image](https://user-images.githubusercontent.com/109040793/179987527-7e76cab6-fb29-434d-8697-641fc2897ed0.png)
+
+4. a) The function we're calling expects string type to be returned, but we are getting string? which can be either a string or nil
+   b) Because function is expecting a string to be returned, and accessing elements of dictionaries returns value as optional
+   c) we need to change the function type from String to String? 
+   
+   
+# Chapter 2 Day 4
+1. ![image](https://user-images.githubusercontent.com/109040793/179996782-01075b04-efeb-4cd8-ad85-3b51d8519bec.png)
+2. ![image](https://user-images.githubusercontent.com/109040793/180016437-c58ecd07-09bf-4845-bfa7-2d0c2b2d127a.png)
+3. ![image](https://user-images.githubusercontent.com/109040793/180020569-89a08bd7-329d-4c6c-ada6-a512a9d4c6a0.png)
+4. ![image](https://user-images.githubusercontent.com/109040793/180021658-715df3f2-ecac-4e3a-94da-1c1ca54f982c.png)
+5. ![image](https://user-images.githubusercontent.com/109040793/180023133-5574f27f-9382-4bfe-9ac4-1517e54984d1.png)
+
