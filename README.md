@@ -56,3 +56,6 @@ Q2: 5 pillars are useful because they make life easier for both users and develo
 4. ![image](https://user-images.githubusercontent.com/109040793/180021658-715df3f2-ecac-4e3a-94da-1c1ca54f982c.png)
 5. ![image](https://user-images.githubusercontent.com/109040793/180023133-5574f27f-9382-4bfe-9ac4-1517e54984d1.png)
 
+# Chapter 3 Day 1
+1. ![image](https://user-images.githubusercontent.com/109040793/182039890-a13a9698-40be-4c94-adb4-2320b488c38c.png)
+![image](https://user-images.githubusercontent.com/109040793/182040052-f91f4e11-ffc1-49bf-bbe8-ffa8d9823f3f.png)
